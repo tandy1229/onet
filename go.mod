@@ -1,4 +1,4 @@
-module github.com/tandy1229/onet/v2
+module gopkg.in/tandy1229/onet.v2
 
 require (
 	github.com/BurntSushi/toml v0.3.1
